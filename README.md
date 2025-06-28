@@ -1,6 +1,8 @@
 # Flight Hazard Alert and Crash Response System
 
 A comprehensive real-time aviation safety system that detects flight hazards and automates emergency responses using advanced AI algorithms and FAA incident data integration.
+![image](https://github.com/user-attachments/assets/8607594e-404d-4dee-a814-2d44e040dd61)
+
 
 ## 🛩️ Features
 
