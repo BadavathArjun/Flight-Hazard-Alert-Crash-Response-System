@@ -128,4 +128,11 @@ Thumbs.db
 *.tar.gz
 
 # Keep generated visualization for demo
-!flight_monitoring.png 
+!flight_monitoring.png
+
+# Images directory - allow README but exclude large files
+images/*.jpg
+images/*.jpeg
+images/*.png
+images/*.gif
+!images/README.md 
